@@ -3,7 +3,7 @@
 
  #
 
- ## Titulação 
+ ## **Titulação**
 
 Os títulos são marcados pelas `#`, por exemplo: 
 
@@ -22,7 +22,7 @@ Os títulos são marcados pelas `#`, por exemplo:
 
 #
 
-## Ênfases
+## **Ênfases**
 
 - **Negrito**: Colocamos o texto entre asteriscos ou underlines duplos 
 ```
@@ -36,6 +36,23 @@ Os títulos são marcados pelas `#`, por exemplo:
 ```
 ***Exemplo*** ou ___Exemplo___
 ```
+#
+
+## **Links**
+
+- **Links Titulados**:  
+```
+[]() - [Título do link](aquitucolocaolink.com)
+```
+- **Links Diretos**
+```
+<> - <aquitucolocaolink.com>
+```
+Exemplo Titulado: [Clique aqui para ver que é real!](https://portaldoscaesegatos.com.br/wp-content/uploads/2016/08/eurosaurus-20.jpg)
+
+Exemplo Direto: <google.com>
+
+#
 
 
 
