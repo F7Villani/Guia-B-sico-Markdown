@@ -14,6 +14,8 @@
 [Códigos](#código)
 
 [Imagens](#imagens)
+
+[Tabela](#tabela)
 #
 #
 ## **Titulação**
