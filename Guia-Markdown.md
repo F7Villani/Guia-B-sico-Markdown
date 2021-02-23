@@ -70,7 +70,7 @@ Os títulos são marcados pelas '#', por exemplo:
 ```
 Exemplo Titulado: [Clique aqui para ver que é real!](https://portaldoscaesegatos.com.br/wp-content/uploads/2016/08/eurosaurus-20.jpg)
 
-Exemplo Direto: <google.com>
+Exemplo Direto: google.com
 
 Exemplo Âncora: [Sumário](#sumário)
 #
