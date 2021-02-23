@@ -146,7 +146,7 @@ Nomes | Valores | Qtd.    -> Colunas separadas por '|'
 Produto 1 | R$ 1 | 1         com '---', os ':' alinham o texto das colunas, 
 Produto 2 | R$ 2 | 2         quando colocados em apenas uma das laterais alinham
 Produto 3 | R$ 3 | 3         pela esquerda ou direita, e quando colocado nas 
-Produto 4 | R$ 4 | 4         duas laterias centralizam o texto
+Produto 4 | R$ 4 | 4         duas laterais centralizam o texto
 ```
 Exemplo : 
 Nomes | Valores | Qtd.
