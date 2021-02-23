@@ -62,7 +62,7 @@ Os títulos são marcados pelas '#', por exemplo:
 ```
 - **Links Diretos**
 ```
-<> - <aquitucolocaolink.com>
+Apenas colocar URl: https://aquitucolocaolink.com
 ```
 - **Links Âncora** : Links como o do sumário desse guia
 ```
