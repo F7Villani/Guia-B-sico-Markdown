@@ -115,7 +115,7 @@ Exemplo :
 
 - Múltiplas linhas de código : Colocar a o conteúdo entre ``` (três acentos graves)
 ```
-if(int i = 10; i<0; i++)
+if(int i = 0; i<10; i++)
 {
     printf(i);
     printf("\n");
