@@ -1,4 +1,4 @@
-# ![](https://camo.githubusercontent.com/8899cca4a2263f0021dfe8c86dc66c296c05138959590297728ccbf7df2f0d5f/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67)       **Guia Básico de Markdown** 
+# <img src = https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg  width = 50> **Guia Básico de Markdown** 
  Nada muito complicado, só o que você precisa para deixar seus READMEs mais organizados.
 
  #
@@ -10,6 +10,10 @@
 [Links](#links)
 
 [Listas](#listas)
+
+[Códigos](#código)
+
+[Imagens](#imagens)
 #
 #
 ## **Titulação**
@@ -94,7 +98,58 @@ Exemplo Âncora: [Sumário](#sumário)
 2. Item 2
 3. Item 3
 ```
-
+Exemplo : 
 1. Item 1
 2. Item 2
 3. Item 3
+
+#
+#
+## **Código**
+
+- Linha de código : Colocar a linha entre ` (acento grave)
+
+` print("Hello World!")`
+
+- Múltiplas linhas de código : Colocar a o conteúdo entre ``` (três acentos graves)
+```
+if(int i = 10; i<0; i++)
+{
+    printf(i);
+    printf("\n");
+}
+```
+- Podemos especificar a linguagem que será apresentada nas linhas de códigos escrevendo seu nome logo após os três acentos graves, por exemplo: ```python
+```python
+print("Esta é uma linha em python!")
+```
+#
+#
+
+## **Imagens**
+```
+![]() - ![Título da imagem](Link da imagem)
+```
+Exemplo :
+
+![Logo do GitHub](https://camo.githubusercontent.com/f116befea219e410bfd127754d966c015c2562f776874928efae907452155a1d/68747470733a2f2f7777772e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6f637469636f6e732f313032342f6d61726b2d6769746875622d3235362e706e67)
+
+#
+#
+
+## **Tabela**
+```
+Nomes | Valores | Qtd.    -> Colunas separadas por '|'
+:----:|:-------:|:---:    -> Linhas que separam a legenda do conteúdo são feitas 
+Produto 1 | R$ 1 | 1         com '---', os ':' alinham o texto das colunas, 
+Produto 2 | R$ 2 | 2         quando colocados em apenas uma das laterais alinham
+Produto 3 | R$ 3 | 3         pela esquerda ou direita, e quando colocado nas 
+Produto 4 | R$ 4 | 4         duas laterias centralizam o texto
+```
+Exemplo : 
+Nomes | Valores | Qtd.
+:----:|:-------:|:---:
+Produto 1 | R$ 1 | 1
+Produto 2 | R$ 2 | 2
+Produto 3 | R$ 3 | 3
+Produto 4 | R$ 4 | 4
